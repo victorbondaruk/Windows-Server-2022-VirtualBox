@@ -1,6 +1,14 @@
 # Windows-Server-2022-VirtualBox
 Creación e instalación de Máquina Virtual Windows Server 2022 en VirtualBox sin entorno gráfico
 
+### Requisites
+https://www.virtualbox.org/
+
+https://www.microsoft.com/es-es/evalcenter/download-windows-server-2022
+
+
+#### Ctrl, Alt y Supr en mac
+Fn+Ctrl+Opción+Suprimir
 
 #### Password
 La contraseña debe tener como mínimo 8 caracteres y contener caracteres complejos como números, letras mayúsculas, minúsculas y caracteres especiales.
@@ -26,3 +34,6 @@ Password-123
 <p align="center"><a href="https://github.com/victorbondaruk/Windows-Server-2022-VirtualBox" target="_blank"><img src="https://github.com/victorbondaruk/Windows-Server-2022-VirtualBox/blob/main/documentation/images/15.png" alt="15" caption="15" width="830"></a></p>
 <p align="center"><a href="https://github.com/victorbondaruk/Windows-Server-2022-VirtualBox" target="_blank"><img src="https://github.com/victorbondaruk/Windows-Server-2022-VirtualBox/blob/main/documentation/images/16.png" alt="16" caption="16" width="830"></a></p>
 <p align="center"><a href="https://github.com/victorbondaruk/Windows-Server-2022-VirtualBox" target="_blank"><img src="https://github.com/victorbondaruk/Windows-Server-2022-VirtualBox/blob/main/documentation/images/17.png" alt="17" caption="17" width="830"></a></p>
+
+
+![Alt](https://repobeats.axiom.co/api/embed/bf9dc8ddda4cc7eb90d3923a5abe2886e3db16d8.svg "Repobeats analytics image")
